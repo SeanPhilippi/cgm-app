@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View } from 'react-native';
 
 const styles = {
   ball: {
@@ -6,7 +6,7 @@ const styles = {
     width: 60,
     borderRadius: 30,
     borderWidth: 30,
-    borderColor: "black",
+    borderColor: 'black',
   },
 };
 
