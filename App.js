@@ -5,17 +5,10 @@ import Practice from './components/Practice';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <StatusBar style='auto' />
+    <View>
+      {/* <StatusBar style='auto' /> */}
       <Practice />
       {/* <GlucoseChart /> */}
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-  },
-});
