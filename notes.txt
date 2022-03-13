@@ -1,3 +1,6 @@
 How to start react native app
 
 // add expo notes here
+- run app with `npm start` command
+- open Expo Go on phone and scan QR Code
+- keep phone screen on, will not connect with phone if it is locked
